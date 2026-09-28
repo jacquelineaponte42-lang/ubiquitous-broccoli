@@ -1,0 +1,6 @@
+{
+  "name": "Archivo Paranormal Desclasificado",
+  "description": "Repositorio de expedientes y relatos sobre fenómenos paranormales con envío de testimonios anónimos, señales en código morse y sistema biométrico de seguimiento ocular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
